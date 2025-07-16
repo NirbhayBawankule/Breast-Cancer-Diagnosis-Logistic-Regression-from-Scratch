@@ -62,7 +62,7 @@ This project implements logistic regression from scratch (without using ML libra
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/breast-cancer-logistic.git
+    git clone https://github.com/NirbhayBawankule/breast-cancer-logistic.git
     cd breast-cancer-logistic
     ```
 
